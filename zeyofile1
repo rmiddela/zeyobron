@@ -1,0 +1,9 @@
+package pack
+object obj {
+
+  def main(args:Array[String]):unit={
+
+    println("===1====")
+    println("===2===")
+  }
+}
